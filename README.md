@@ -6,5 +6,5 @@ Link tài liệu: - https://yunwuxin1.gitbooks.io/git/content/vi/c8cf03f9bf3367e
 Ngày 29/8/2022: sáng (4 tiết)
 Bài tập: 
 - Mỗi bạn viết một file Java dùng tên của mình: Ví dụ: NguyenMinhDuc.java
-- Viết bài tính tổng các số từ 1->n, với n số nguyên nhập từ bàn phím
+- Tính tổng các số từ 1->n, với n số nguyên nhập từ bàn phím
 - Add và push lên https://github.com/htnha/test-cd3.git
