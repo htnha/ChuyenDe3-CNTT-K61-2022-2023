@@ -8,3 +8,5 @@ Bài tập:
 - Mỗi bạn viết một file Java dùng tên của mình: Ví dụ: NguyenMinhDuc.java
 - Tính tổng các số từ 1->n, với n số nguyên nhập từ bàn phím
 - Add và push lên https://github.com/htnha/test-cd3.git
+
+Google Meet: https://meet.google.com/dda-qqjm-aii
