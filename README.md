@@ -10,3 +10,15 @@ Bài tập:
 - Add và push lên https://github.com/htnha/test-cd3.git
 
 Google Meet: https://meet.google.com/dda-qqjm-aii
+
+TIỂU LUẬN
+
+Phát triển một ứng dung sử dung github (trang tin tức, trang phim, …)
+15-20 trang
+Nội dung:
+Phần 1: Trình bày về công cụ quản lý phiên bản, git & github (~ 4 trang)
+Phần 2: Trình bày về quá trình phát triển ứng dụng sử dung github (~ 5 trang)
+Phần 3: Trình bày về kết quả của ứng dụng (~ 5 trang)
+Phần 4: Kết luận (~ 1 trang)
+
+
